@@ -31,8 +31,10 @@ const Projects = () => (
             <Img src={image} />
             <TitleContent>
               <HeaderThree title> {title} </HeaderThree>
+              <Hr/>
             </TitleContent>
-            <CardInfo></CardInfo>
+            <CardInfo> {description} </CardInfo>
+            <br/>
             <div>
               <TitleContent> Stack </TitleContent>
               <TagList>
