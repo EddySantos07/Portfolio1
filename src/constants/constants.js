@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "SaveYourLists",
     description:
-      "Youtube Playlist manager, Saving your videos title, desc, etc ... before they get delted with your own profile! (Currently In Progress)",
+      "Youtube Playlist manager, Saving your videos title, desc, etc ... before they get deleted with your own profile! (Currently In Progress)",
     image: "/images/3.jpg",
     tags: ["React", "Redux", "GoogleAuth", "JWT", "MongoDB"],
     source: "https://github.com/EddySantos07/SaveYourLists",
